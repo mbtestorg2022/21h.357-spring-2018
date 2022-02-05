@@ -4,18 +4,273 @@ title: Calendar
 uid: 4eaef571-baf3-6ca8-d73e-9ce865ce5717
 ---
 
-| WEEK# | TOPICS | KEY DUE DATES |
-| --- | --- | --- |
-| 1 | Introduction & Organization | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} Leaving India {{< br >}}{{< br >}} _In-class reading quiz_ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Analysis paper #1 due {{< br >}}{{< br >}} Discussion questions due {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Labor {{< br >}}{{< br >}} _In-class reading quiz_ {{< br >}}{{< br >}}  | Discussion questions due |
-| 4 |  {{< br >}}{{< br >}} Capital {{< br >}}{{< br >}} _In-class reading quiz_ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Analysis paper #2 due {{< br >}}{{< br >}} Discussion questions due {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Empire and Nationalism {{< br >}}{{< br >}} _In-class reading quiz_ {{< br >}}{{< br >}}  | Discussion questions due |
-| 6 |  {{< br >}}{{< br >}} Race and Place: Being South Asian in America {{< br >}}{{< br >}} _In-class reading quiz_ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Analysis paper #3 due {{< br >}}{{< br >}} Discussion questions due {{< br >}}{{< br >}}  |
-| 7 |  {{< br >}}{{< br >}} Individual Meetings with Instructor {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} One-paragraph question for research paper due {{< br >}}{{< br >}} Discussion questions due  {{< br >}}{{< br >}}  |
-| 8 |  {{< br >}}{{< br >}} Multiculturalism and Its Discontents {{< br >}}{{< br >}} _In-class reading quiz_ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} One-page proposal for research paper due {{< br >}}{{< br >}} Discussion questions due {{< br >}}{{< br >}}  |
-| 9 |  {{< br >}}{{< br >}} Religion and Diaspora {{< br >}}{{< br >}} _In-class reading quiz_ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Analysis paper #4 due {{< br >}}{{< br >}} Discussion questions due {{< br >}}{{< br >}}  |
-| 10 | Individual Meetings with Instructor | &nbsp; |
-| 11 |  {{< br >}}{{< br >}} Individual Meetings with Instructor {{< br >}}{{< br >}} _In-class viewing and discussion:_ {{< br >}}{{< br >}} [_Hasan Minhaj: Homecoming King_](https://www.imdb.com/title/tt6900644/?ref_=nv_sr_3). Directed by Christopher Storer. Color, 73 min. 2017. {{< br >}}{{< br >}}  | Research paper due |
-| 12 |  {{< br >}}{{< br >}} Presentations and Peer Commentary {{< br >}}{{< br >}} _Students will be paired up to present their research paper (10 minutes) and comment on another student’s paper (5 minutes) in class_ {{< br >}}{{< br >}}  | &nbsp; |
-| 13 | Lunch & Wrap Up | Revised research paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK#
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction & Organization
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Leaving India
+
+_In-class reading quiz_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Analysis paper #1 due
+
+Discussion questions due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Labor
+
+_In-class reading quiz_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion questions due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Capital
+
+_In-class reading quiz_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Analysis paper #2 due
+
+Discussion questions due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Empire and Nationalism
+
+_In-class reading quiz_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Discussion questions due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Race and Place: Being South Asian in America
+
+_In-class reading quiz_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Analysis paper #3 due
+
+Discussion questions due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Individual Meetings with Instructor
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+One-paragraph question for research paper due
+
+Discussion questions due 
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Multiculturalism and Its Discontents
+
+_In-class reading quiz_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+One-page proposal for research paper due
+
+Discussion questions due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Religion and Diaspora
+
+_In-class reading quiz_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Analysis paper #4 due
+
+Discussion questions due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Meetings with Instructor
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Individual Meetings with Instructor
+
+_In-class viewing and discussion:_
+
+[_Hasan Minhaj: Homecoming King_](https://www.imdb.com/title/tt6900644/?ref_=nv_sr_3). Directed by Christopher Storer. Color, 73 min. 2017.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Research paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Presentations and Peer Commentary
+
+_Students will be paired up to present their research paper (10 minutes) and comment on another student’s paper (5 minutes) in class_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Lunch & Wrap Up
+{{< tdclose >}}
+{{< tdopen >}}
+Revised research paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

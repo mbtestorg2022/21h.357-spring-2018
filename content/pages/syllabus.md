@@ -33,12 +33,65 @@ Additional readings can be found in the [Readings and Videos]({{< baseurl >}}/p
 Grading 
 --------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Attendance and active class participation, including reading quizzes | 10% |
-| Analysis papers (4) | 15% |
-| Paper presentation and peer commentary | 15% |
-| Research paper | 30% |
-| Final revised paper | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance and active class participation, including reading quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Analysis papers (4)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Paper presentation and peer commentary
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research paper
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final revised paper
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For additional information on the activities in the table above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
